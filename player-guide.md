@@ -22,7 +22,7 @@ Try not to worry too much.
 
 * **Be a champion for other ideas**
 
-  You'll have great ideas in the course of your game of `Pulp`, and it is natural to promote and defend them. Sadly this doesn't always work well in a team game, and might lead you to be too tenacious - you've probably encountered this in others, and it can be dislikeable. A good way to guard against this is to devote your energy to exploring and embracing the ideas of others - trust that they'll do the same for yours.
+  You'll have great ideas in the course of your game of `Pulp`, and it is natural to promote and defend them. Sadly this doesn't always work well in a team game, and might lead you to be a little too tenacious. A good way to guard against this is to devote your energy to exploring and embracing the ideas of others - trust that they'll do the same for yours.
 
 * **Use the Testing phase to resolve deadlocks**
 
