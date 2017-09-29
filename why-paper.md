@@ -11,8 +11,8 @@ There are some advantages to using paper like this which might not immediately b
 * Paper prototypes are **Concrete**
  - Because a paper-prototype is a physical thing it helps teams share their understanding and makes sure they are *on the same page*. Prototyping helps to draw out differences in expectations before anyone gets disappointed.
 * Paper protoypes are **Testable**
- - Beacuse a paper prototype is interactive it can be used to test system behaviour very early in the process. The earlier testing is done the cheaper and more effectively problems can be detected and solved.
+ - Because a paper prototype is interactive it can be used to test system behaviour very early in the process. The earlier testing is done the cheaper and more effectively problems can be detected and solved.
 * Paper prototypes are **Low Fidelity**
- - Beacuse it is so obvious that a paper prototype isn't the finished product it helps people focus on the features and functionality which matter at that stage of the project, without getting hung up on other aspects of design which are better handled later.
+ - Because it is so obvious that a paper prototype isn't the finished product it helps people focus on the features and functionality which matter at that stage of the project, without getting hung up on other aspects of design which are better handled later.
 
 Paper protoypes are a fun tool to use in the early stages of a software project. It can be very different from the way that folk are accustomed to working, and that can be tricky at first, but once people have tried it they almost always come back for more.
