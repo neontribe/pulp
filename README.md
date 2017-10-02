@@ -38,7 +38,7 @@ Each team should fill out a [problem sheet](./problem-sheet.md) or reassess thei
 Each team should use a combination of [ready-made parts](./parts.md), and custom parts they create themselves, to build a paper-protoype of their solution to the problem. If this is your first time using paper-prototypes you might want to check out [Why Paper?](./why-paper.md).
 
 ### Phase 3. Testing
-Each team should all take on roles and responsibilities from the [Testing a Paper Protoype](./testing-a-paper-prototype.md) sheet, then they should play through the testing minigame. This is the moment when having more than one team in the game really helps.
+Each team should all take on roles and responsibilities from the [Testing a Paper Protoype](./testing.md) sheet, then they should play through the testing minigame. This is the moment when having more than one team in the game really helps.
 
 ### Phase 4. Iterating
 Each team should discuss the results of the testing phase and try to make changes to the prototype to incorporate the things they discovered.  
